@@ -1,0 +1,6 @@
+﻿  CreditCardAccount.cpp
+  CreditOrganiser.cpp
+  LoyaltyScheme.cpp
+  Generating Code...
+  AssemblyInfo.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  CreditOrganiser.vcxproj -> C:\Users\Student\Desktop\Alexandrescu Dragos\CreditOrganiser\x64\Debug\CreditOrganiser.exe
